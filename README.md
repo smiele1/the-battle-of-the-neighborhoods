@@ -1,2 +1,6 @@
 # the-battle-of-the-neighborhoods
-Final project for IBM Data Science Capstone
+San Francisco, California is consistently ranked as one of the best cities for finding a new job. However, it is also one of the most expensive cities in the United States. Many young professionals moving there will not have the savings necessary to purchase real estate. Instead, they will likely rent. Additionally, even those further along into their career may prefer to rent rather than make the commitment of buying a home, especially if they do not plan to stay in San Francisco in the long term.
+
+In this project, I will explore the neighborhoods of San Francisco. I want to find which neighborhoods have the cheapest rent, and which have attractive venues nearby so newcomers will not have to sacrifice entertainment and convenience for cheaper rent. I will use the Foursquare API's "explore" function to get the recommended venues around each neighborhood. I plan to examine not only the amount of nearby venues, but also the types of venues for each neighborhood to ascertain that neighborhood's desirability.
+
+In short, my goal is to find the most desirable neighborhood for renters in San Francisco based on both average rent and popular surrounding venues.
